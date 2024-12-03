@@ -26,7 +26,7 @@ This Python application dynamically tracks the performance of stocks based on a 
 - Install the required Python packages:
 
 ```bash
-pip install pandas yfinance rich asciichartpy
+pip install pandas PyPDF2 yfinance rich asciichartpy
 ```
 
 ---

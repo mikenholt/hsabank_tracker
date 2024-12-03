@@ -173,5 +173,5 @@ def display_performance_table(consolidated_file, polling_rate=POLLING_RATE):
 
 
 if __name__ == "__main__":
-    consolidated_file = "consolidated_by_symbol.csv"
+    consolidated_file = "extracted_data.csv"
     display_performance_table(consolidated_file)
